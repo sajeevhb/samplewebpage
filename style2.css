@@ -1,0 +1,51 @@
+.topsection{
+  text-align: center;
+  background-color: #212529;
+  color: #ffffff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.skillsection{
+
+}
+
+#avatar{
+  width: 25%
+}
+
+#skillheader{
+  font-size: 50px;
+  color: #37B8D4;
+}
+
+.skillsection{
+  text-align: center;
+}
+
+#pythonimg{
+  width: 30%;
+  float:left;
+}
+
+#databaseimg{
+    width: 30%;
+    float:left;
+}
+
+#webdevelopmentimg{
+    width: 30%;
+    float:left;
+    
+}
+.skills-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+#skills-para{
+  line-height: 1.5;
+
+}
